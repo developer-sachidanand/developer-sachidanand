@@ -1,6 +1,6 @@
 # Hey, I'm Sachidanand 👋
 
-**Software Engineer · Full Stack · Backend · AI/ML · Security**
+**Software Engineer · Full Stack · Backend **
 
 I like building things that are **fast, reliable, and actually useful**.
 Currently exploring **backend engineering, distributed systems, AI applications, and open source**.
@@ -19,14 +19,11 @@ Currently exploring **backend engineering, distributed systems, AI applications,
 **Data**
 `PostgreSQL` `MongoDB` `Redis` `Vector Databases`
 
-**AI / ML**
-`PyTorch` `Scikit-learn` `Pandas` `LLMs` `RAG` `Embeddings`
-
 **Cloud & DevOps**
 `AWS` `Docker` `Linux` `Git` `CI/CD`
 
 **Security**
-`OAuth 2.0` `OpenID Connect` `SAML` `JWT` `Zero Trust`
+`OAuth 2.0` `OpenID Connect` `JWT` `Zero Trust`
 
 ---
 
@@ -39,25 +36,11 @@ Currently exploring **backend engineering, distributed systems, AI applications,
 * Open-source projects and developer tools
 * Competitive programming & problem solving
 
-### 🚀 Currently building
-
-**Production-grade collaborative drawing platform**
-Exploring real-time collaboration, WebSockets, scalable APIs, authentication and frontend architecture.
-
 ### 📌 A few things I've worked on
 
 `Zero Trust Architecture` · `AI Task Assistant` · `Privacy-Preserving ML` · `Heart Rate Prediction` · `Full-Stack Applications`
 
 ---
-
-<p align="center">
-  <a href="https://github.com/developer-sachidanand">
-    <img src="https://github-readme-stats.vercel.app/api?username=developer-sachidanand&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" height="150"/>
-  </a>
-  <a href="https://github.com/developer-sachidanand">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-sachidanand&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="150"/>
-  </a>
-</p>
 
 <p align="center">
   <i>Build things. Understand how they work. Make them better.</i>
