@@ -58,7 +58,7 @@
 
 ## 🚀 Featured Projects
 
-### ☕ Spring Boot 0 to 100
+### ☕ E-Commerce Platform
 
 An E-Commerce Microservice Platform.
 
